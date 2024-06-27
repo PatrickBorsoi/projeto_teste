@@ -5,7 +5,7 @@ import fitz  # PyMuPDF
 
 #%%
 # URL do PDF
-url = 'https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VG10Tk0wNVZUVEpTUlZWMFRVVlpOVTU1TURCUmEwMDBURlJuZVZKcVkzUlNWVkpHVG1wR1EwOVVRVEpQVkVKSFRWUmplRTlFU1RSTlZFVTBUVUU5UFE9PQ=='
+url = 'https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFVSR1JrNVVUa1JQUkZGMFRUQlJNVTFETURCUFJFNURURlZKTlU1cVZYUlNhMGwzVDFSTk5WSnFXa1JPUlZreFRWUmplRTlFV1RKUFZGRTFUMEU5UFE9PQ=='
 
 # Fazendo a requisição GET
 response = requests.get(url)
